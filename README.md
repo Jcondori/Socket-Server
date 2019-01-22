@@ -10,7 +10,7 @@ Generar el Dist
 tsc -w
 ```
 
-Levantar Servidor
+Levantar Servidor con cualquiera de estoy comandos
 ```
 nodemon dist
 node dist
